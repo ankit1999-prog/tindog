@@ -1,0 +1,144 @@
+body{
+  font-family: Montserrat;
+}
+#title{
+  background-color: #f54291;
+  color: #fff;
+}
+/* font */
+h1{
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+h2{
+  font-family: "Montserrat-black";
+  color: #000;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-weight: bolder;
+}
+/* testimonial fonts */
+.testimonials-h2{
+  color: #fff;
+}
+p{
+  color: #504658;
+}
+/* contianer fluid  */
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+/*navbar*/
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-brand{
+   font-family: "ubantu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding-left:18px;
+}
+.nav-link{
+  font-family: "ubantu";
+  font-size: 1.2rem;
+}
+/*download-button*/
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/*tittle-image*/
+.tittle-image{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+ margin-left: 15%;
+}
+/*features*/
+#features{
+  padding:7% 15%;
+  background-color: #fff;
+  z-index: 1;
+  position:relative;
+}
+.features-box{
+  text-align: center;
+  padding:5%;
+}
+/*features-icons*/
+.icon{
+  color: #f54291;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: red;
+}
+#testimonials{
+   text-align: center;
+    background-color: #f54291;
+color: #fff;
+}
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+ margin: 3%;
+}
+.carousel-item{
+   padding:7% 15%;
+}
+/*press*/
+#press{
+    background-color: #f54291;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-image{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* pricing */
+#pricing{
+  padding: 100px;
+    text-align: center;
+    background-color:  #fff;
+}
+.column-cards{
+  padding: 4% 3%;
+}
+/* call-to-action */
+#cta{
+  text-align: center;
+  background-color: #f54291;
+  padding-top: 3%;
+  margin-bottom: 15%;
+  padding-bottom:3%;
+}
+.cta-h3{
+  font-family: "Montserrat-black";
+  color: #fff;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 5%;
+}
+
+.Copyright-text{
+  color:  #fff;
+padding-top: 3%;
+}
+
+/* footer */
+ #footer{
+   text-align: center;
+ }
+ .social-icon{
+   position: relative;
+   bottom:100px;
+ margin: 0 10px;
+ }
